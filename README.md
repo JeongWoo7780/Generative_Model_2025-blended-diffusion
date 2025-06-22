@@ -7,8 +7,7 @@
 # Notice
 This GitHub repository was created for class assignments. All rights to the files and results in this repository belong to Omri Avrahami.
 >
-> <a href="https://omriavrahami.com/blended-diffusion-page/">
-**Blended Diffusion for Text-driven Editing of Natural Images**</a>
+> <a href="https://omriavrahami.com/blended-diffusion-page/">**Blended Diffusion for Text-driven Editing of Natural Images**</a>
 >
 > Omri Avrahami, Dani Lischinski, Ohad Fried
 >
