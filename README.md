@@ -48,6 +48,9 @@ In order to generate multiple results in a single diffusion process, we utilized
 # Applications
 
 ### Multiple synthesis results for the same prompt
-<img src="generation_examples/adding_a_new_object.png" width="800px">
+<img src="generation_examples/adding_a_new_object.png" width="600px">
+<img src="generation_examples/adding_a_new_object2.png" width="600px">
+
 ### Synthesis results for different prompts
+
 ### Altering part of an existing object
