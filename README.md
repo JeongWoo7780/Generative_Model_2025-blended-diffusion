@@ -30,6 +30,7 @@ pip3 install ftfy regex matplotlib lpips kornia opencv-python torch==1.9.0+cu111
 ```bash
 pip3 install "numpy<2.0"
 ```
+2. Create a `checkpoints` directory and download the pretrained diffusion model from [here](https://huggingface.co/omriav/blended-diffusion/resolve/main/checkpoints/256x256_diffusion_uncond.pt?download=true) to this folder.
 
 # Image Generation
 An exaple of text-driven multiple synthesis results:
