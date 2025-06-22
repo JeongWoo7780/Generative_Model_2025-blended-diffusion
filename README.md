@@ -41,4 +41,6 @@ python main.py -p "rock" -i "input_example/img.png" --mask "input_example/mask.p
 The generation results will be saved in `output/rancked` folder, ordered by CLIP similarity rank. In order to get the best results, please generate a large number of results (at least 64)and take the best ones.
 >
 In order to generate multiple results in a single diffusion process, we utilized batch processing. If you get `CUDA out of memory` try first to lower the batch size by setting `--batch_size 1`.
->
+
+<img src="generation_examples/img1_ex.png" width="800px">
+<img src="generation_examples/img2_ex.png" width="800px">
