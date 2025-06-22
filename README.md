@@ -42,5 +42,11 @@ The generation results will be saved in `output/rancked` folder, ordered by CLIP
 >
 In order to generate multiple results in a single diffusion process, we utilized batch processing. If you get `CUDA out of memory` try first to lower the batch size by setting `--batch_size 1`.
 
-<img src="generation_examples/img1_ex.png" width="800px">
-<img src="generation_examples/img2_ex.png" width="800px">
+<img src="generation_examples/img1_ex.png" width="600px">
+<img src="generation_examples/img2_ex.png" width="600px">
+
+# Applications
+
+### Multiple synthesis results for the same prompt
+### Synthesis results for different prompts
+### Altering part of an existing object
