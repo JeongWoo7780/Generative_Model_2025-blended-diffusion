@@ -54,3 +54,4 @@ In order to generate multiple results in a single diffusion process, we utilized
 ### Synthesis results for different prompts
 
 ### Altering part of an existing object
+<img src="generation_examples/altering.png" width="600px">
