@@ -61,4 +61,6 @@ In order to generate multiple results in a single diffusion process, we utilized
 <img src="generation_examples/background_replacement.png" width="800px">
 
 # Acknowledgments
-This code borrows from [CLIP](https://github.com/openai/CLIP), [Guided-diffusion](https://github.com/openai/guided-diffusion) and [CLIP-Guided Diffusion](https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj).
+This project is based on the implementation and ideas from the paper:  
+**[Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818)**  
+Original code available at: [https://github.com/omriav/blended-diffusion/tree/master](https://github.com/omriav/blended-diffusion/tree/master)
