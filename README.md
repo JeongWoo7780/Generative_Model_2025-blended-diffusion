@@ -4,8 +4,11 @@
 <a href="https://arxiv.org/abs/2111.14818"><img src="https://img.shields.io/badge/arXiv-2111.14818-b31b1b.svg"></a>
 [![Related Project](https://img.shields.io/badge/GitHub-Related--Repo-green?logo=github)](https://github.com/omriav/blended-diffusion)
 
-# Notice
-This GitHub repository was created for class assignments. All rights to the files and results in this repository belong to Omri Avrahami.
+# 📌 Notice
+
+This repository was created solely for educational and non-commercial purposes as part of a course assignment.  
+All rights and intellectual property belong to the original authors of the referenced work:  
+[Blended Diffusion for Text-driven Editing of Natural Images](https://github.com/omriav/blended-diffusion/tree/master)
 >
 > <a href="https://omriavrahami.com/blended-diffusion-page/">**Blended Diffusion for Text-driven Editing of Natural Images**</a>
 >
@@ -51,7 +54,11 @@ In order to generate multiple results in a single diffusion process, we utilized
 <img src="generation_examples/adding_a_new_object.png" width="800px">
 <img src="generation_examples/adding_a_new_object2.png" width="800px">
 
-### Synthesis results for different prompts
-
 ### Altering part of an existing object
 <img src="generation_examples/altering.png" width="800px">
+
+### Background replacement
+<img src="generation_examples/background_replacement.png" width="800px">
+
+# Acknowledgments
+This code borrows from [CLIP](https://github.com/openai/CLIP), [Guided-diffusion](https://github.com/openai/guided-diffusion) and [CLIP-Guided Diffusion](https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj).
