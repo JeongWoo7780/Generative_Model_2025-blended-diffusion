@@ -51,6 +51,9 @@ In order to generate multiple results in a single diffusion process, we utilized
 # Applications
 
 ### Multiple synthesis results for the same prompt
+```bash
+python main.py -p "rock" -i "input_example/img.png" --mask "input_example/mask.png" --output_path "output"
+```
 <img src="generation_examples/adding_a_new_object.png" width="800px">
 <img src="generation_examples/adding_a_new_object2.png" width="800px">
 
