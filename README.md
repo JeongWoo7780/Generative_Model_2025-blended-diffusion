@@ -62,9 +62,15 @@ python main.py -p "orange" -i "input_example/img2.png" --mask "input_example/mas
 <img src="generation_examples/adding_a_new_object2.png" width="800px">
 
 ### Altering part of an existing object
+```bash
+python main.py -p "body of a standing dog" -i "input_example/img2.png" --mask "input_example/mask4.png" --output_path "output"
+```
 <img src="generation_examples/altering.png" width="800px">
 
 ### Background replacement
+```bash
+python main.py -p "Big mountain" -i "input_example/img.png" --mask "input_example/mask3.png" --output_path "output"
+```
 <img src="generation_examples/background_replacement.png" width="800px">
 
 # Acknowledgments
