@@ -69,7 +69,7 @@ python main.py -p "body of a standing dog" -i "input_example/img2.png" --mask "i
 
 ### Background replacement
 ```bash
-python main.py -p "Big mountain" -i "input_example/img.png" --mask "input_example/mask3.png" --output_path "output"
+python main.py -p "Big mountain" -i "input_example/img3.png" --mask "input_example/mask3.png" --output_path "output"
 ```
 <img src="generation_examples/background_replacement.png" width="800px">
 
