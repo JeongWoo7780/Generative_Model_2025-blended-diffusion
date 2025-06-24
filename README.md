@@ -55,6 +55,10 @@ In order to generate multiple results in a single diffusion process, we utilized
 python main.py -p "rock" -i "input_example/img.png" --mask "input_example/mask.png" --output_path "output"
 ```
 <img src="generation_examples/adding_a_new_object.png" width="800px">
+
+```bash
+python main.py -p "orange" -i "input_example/img2.png" --mask "input_example/mask2.png" --output_path "output"
+```
 <img src="generation_examples/adding_a_new_object2.png" width="800px">
 
 ### Altering part of an existing object
